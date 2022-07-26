@@ -13,8 +13,16 @@ a {
     background-color: #dddddd;
 }
 
+/* Hotels Page Style */
+
+#inputSearch{
+    height: 50px;
+    width: 300px;
+}
+
 #searchButton{
-    
+    height: fit-content;
+    width: fit-content;
     border: none;
     color: white;
     padding: 20px;
